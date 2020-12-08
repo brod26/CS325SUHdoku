@@ -1,9 +1,9 @@
-Sudoku
-Objective
+# Sudoku
+## Objective
 
 There are 81 squares, divided into 9 blocks, each containing 9 squares. To win the game, each nine block section must contain all number 1-9 within its squares, without any duplicates in any one row, column or 9 block sub-section.
 
-Game Rules
+## Game Rules
 
     -Use your mouse to click on the block you'd like to select.
     -Once your block is selected, you may type using the numpad, any number from 1-9.
@@ -14,12 +14,12 @@ Game Rules
     -The "Reset" button generates a random new board. 
     -Once you've filled in all squares, you may hit the "Verify" button which will then verify your solution, if the solution is allowed you'll get a "Valid Solution" message on the bottom left of the Sudoku board. If it is not a valid solution you'll get a "Invalid Solution" message instead.
 
-How to play
-Repl.it
+# How to play
+## Repl.it
 
 The game is hosted on repl.it here: https://repl.it/@BryanRodriguez5/CS325SUHdoku
 
-Terminal
+## Terminal
 
 The alternative approach has a better UI experience but requires some set-up:
 1. Install the latest version of Python
