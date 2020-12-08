@@ -36,4 +36,4 @@ The alternative approach has a better UI experience but requires some set-up:
  
  Thanks for playing!
 
-    Enter python3 Sudoku.py and begin playing.
+    Enter python Sudoku.py and begin playing.
