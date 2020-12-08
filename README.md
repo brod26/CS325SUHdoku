@@ -7,7 +7,7 @@ Game Rules
 
     -Use your mouse to click on the block you'd like to select.
     -Once your block is selected, you may type using the numpad, any number from 1-9.
-    -Your initial number will be "sketched" in, meaning it will not be registered until you hit the "ENTER" button. Doing so will return whether this move is valid or invalid. 
+    -Your initial number will be "sketched" in, meaning it will not be registered until you hit the "ENTER" button. Doing so will return whether this move is valid or                   invalid. 
     -You may sketch as many numbers as you like, however, you'll need to go back and manually enter every number once you're ready.
     -The "Solve" button will use a backtracking, recursive algorithm to solve the board for you. 
     -The "Verify" button uses a brute-force, algorithm to verify your board solution, or the solution provided from the "Solve" button.
@@ -17,7 +17,7 @@ Game Rules
 How to play
 Repl.it
 
-The game is hosted on repl.it here: 
+The game is hosted on repl.it here: https://repl.it/@BryanRodriguez5/CS325SUHdoku
 
 Terminal
 
