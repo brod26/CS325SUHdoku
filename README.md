@@ -27,12 +27,15 @@ The alternative approach has a better UI experience but requires some set-up:
 
     To install pygame, type: python3 -m pip install pygame in your terminal
 
-    On GitHub, click the Code button, download the zip file to the desktop and in your termial:
+ 3. On GitHub, click the Code button, download the zip file to the desktop and in your termial:
 
     -cd Desktop
+    
+    then type:
+    
     -cd CS325SUHdoku
     
- 3. In your terminal type python3 sudoku_GUI.py
+ 4. In your terminal type python3 sudoku_GUI.py
  
  Thanks for playing!
 
