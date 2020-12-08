@@ -25,7 +25,7 @@ The alternative approach has a better UI experience but requires some set-up:
 1. Install the latest version of Python
 2. Install pip and Pygame
 
-    To install pygame, type: python3 -m pip install pygame in your terminal
+    To install pygame, type: python -m pip install pygame in your terminal
 
  3. On GitHub, click the Code button, download the zip file to the desktop and in your termial:
 
