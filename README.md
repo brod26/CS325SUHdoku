@@ -30,6 +30,6 @@ The alternative approach has a better UI experience but requires some set-up:
     On GitHub, click the Code button, download the zip file to the desktop and in your termial:
 
     cd Desktop
-    cd Sudoku
+    cd sudoku_GUI
 
     Enter python3 Sudoku.py and begin playing.
