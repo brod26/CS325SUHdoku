@@ -33,7 +33,7 @@ The alternative approach has a better UI experience but requires some set-up:
     
     then type:
     
-    -cd CS325SUHdoku
+    -cd CS325SUHdoku-main
     
  4. In your terminal type python3 sudoku_GUI.py
  
