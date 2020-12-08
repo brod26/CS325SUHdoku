@@ -17,7 +17,7 @@ There are 81 squares, divided into 9 blocks, each containing 9 squares. To win t
 # How to play
 ## Repl.it
 
-The game is hosted on repl.it here: https://repl.it/@BryanRodriguez5/CS325SUHdoku
+The game is hosted on repl.it here: https://repl.it/@BryanRodriguez5/SUHDoku
 
 ## Terminal
 
