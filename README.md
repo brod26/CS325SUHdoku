@@ -1,9 +1,9 @@
-Sudoku
-Objective
+# Sudoku
+## Objective
 
 There are 81 squares, divided into 9 blocks, each containing 9 squares. To win the game, each nine block section must contain all number 1-9 within its squares, without any duplicates in any one row, column or 9 block sub-section.
 
-Game Rules
+## Game Rules
 
     -Use your mouse to click on the block you'd like to select.
     -Once your block is selected, you may type using the numpad, any number from 1-9.
@@ -14,22 +14,29 @@ Game Rules
     -The "Reset" button generates a random new board. 
     -Once you've filled in all squares, you may hit the "Verify" button which will then verify your solution, if the solution is allowed you'll get a "Valid Solution" message on the bottom left of the Sudoku board. If it is not a valid solution you'll get a "Invalid Solution" message instead.
 
-How to play
-Repl.it
+# How to play
+## Repl.it
 
-The game is hosted on repl.it here: https://repl.it/@BryanRodriguez5/CS325SUHdoku
+The game is hosted on repl.it here: https://repl.it/@BryanRodriguez5/SUHDoku
 
-Terminal
+## Terminal
 
 The alternative approach has a better UI experience but requires some set-up:
 1. Install the latest version of Python
 2. Install pip and Pygame
 
-    To install pygame, type: python3 -m pip install pygame in your terminal
+    To install pygame, type: python -m pip install pygame in your terminal
 
-    On GitHub, click the Code button, download the zip file to the desktop and in your termial:
+ 3. On GitHub, click the Code button, download the zip file to the desktop and in your termial:
 
-    cd Desktop
-    cd sudoku_GUI
+    -cd Desktop
+    
+    then type:
+    
+    -cd CS325SUHdoku-main
+    
+ 4. In your terminal type python3 sudoku_GUI.py
+ 
+ Thanks for playing!
 
-    Enter python3 Sudoku.py and begin playing.
+    Enter python Sudoku.py and begin playing.
